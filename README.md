@@ -111,3 +111,6 @@ plt.show()
 ```
 This final section updates the visualization with new network values.
 
+![image](https://github.com/user-attachments/assets/3a0ea7af-40bc-4bd9-8421-14e7920b52d8)
+
+
